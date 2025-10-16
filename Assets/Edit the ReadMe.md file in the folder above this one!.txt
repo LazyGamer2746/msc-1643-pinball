@@ -1,1 +1,3 @@
-Edit the ReadMe.md file in the folder above this one!
+Music by: Bensound
+License code: GIT8PUDFJRFQJSNN
+Artist: : Benjamin Tissot
